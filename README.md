@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hey there, I'm Manas Pathak!
 
-<!--
-**Manas2006/Manas2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I'm an **Electrical & Computer Engineering** student at **UT Austin**, passionate about **software development, artificial intelligence, and machine learning**. I'm always on the lookout for **fun projects**, **exciting challenges**, and **new opportunities** to learn and grow.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 **What I'm Working On**
+- 🧠 **AI & Machine Learning:** Exploring deep learning, prompt engineering, and building intelligent applications.
+- 🖥️ **Full-Stack Development:** Creating web applications with **React.js**, **Django**, and **AWS**.
+- 📈 **Finance & Data Science:** Developing **stock prediction models** and other data-driven projects.
+
+---
+
+### 🔍 **What I'm Looking For**
+- **Collaborative Projects:** If you're working on something cool, I'd love to hear about it!
+- **Internships & Research Opportunities:** Especially in **AI, software engineering, and startups**.
+- **Open-Source Contributions:** I'm eager to contribute to impactful projects.
+
+---
+
+### 📫 **Let's Connect!**
+- 📧 Email: [manaspathak@utexas.edu](mailto:manaspathak@utexas.edu)
+- 🔗 LinkedIn: [Manas Pathak](https://www.linkedin.com/in/manasp123/)
+
+Feel free to reach out—I'm always excited to discuss ideas and build something amazing! 🚀
