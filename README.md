@@ -3,7 +3,6 @@
 Welcome to my GitHub! I'm an **Electrical & Computer Engineering** student at **UT Austin**, passionate about **software development, artificial intelligence, and machine learning**. I'm always on the lookout for **fun projects**, **exciting challenges**, and **new opportunities** to learn and grow.
 
 ---
-![Snake Animation](https://github.com/Manas2006/Manas2006/blob/output/github-contribution-grid-snake.svg)
 
 ### 🚀 **What I'm Working On**
 - 🧠 **AI & Machine Learning:** Exploring deep learning, prompt engineering, and building intelligent applications.
@@ -24,3 +23,9 @@ Welcome to my GitHub! I'm an **Electrical & Computer Engineering** student at **
 - 🔗 LinkedIn: [Manas Pathak](https://www.linkedin.com/in/manasp123/)
 
 Feel free to reach out—I'm always excited to discuss ideas and build something amazing! 🚀
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Manas2006/Manas2006/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Manas2006/Manas2006/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Manas2006/Manas2006/output/github-contribution-grid-snake.svg">
+</picture>
