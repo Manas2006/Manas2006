@@ -3,6 +3,7 @@
 Welcome to my GitHub! I'm an **Electrical & Computer Engineering** student at **UT Austin**, passionate about **software development, artificial intelligence, and machine learning**. I'm always on the lookout for **fun projects**, **exciting challenges**, and **new opportunities** to learn and grow.
 
 ---
+![Snake Animation](https://github.com/Manas2006/Manas2006/blob/output/github-contribution-grid-snake.svg)
 
 ### 🚀 **What I'm Working On**
 - 🧠 **AI & Machine Learning:** Exploring deep learning, prompt engineering, and building intelligent applications.
