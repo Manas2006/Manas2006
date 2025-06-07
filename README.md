@@ -13,12 +13,16 @@
 
 ## 🚀 About Me
 
-I'm a passionate ECE student at UT Austin, focused on building intelligent systems and scalable applications. My expertise spans **Graph Neural Networks research**, **full-stack development**, and **cloud architecture**. I'm currently seeking Summer '26 SWE internships in backend, full-stack, or ML roles.
+I’m a passionate ECE student at **UT Austin** who loves turning research ideas into scalable software.  
+My expertise spans **large-language-model**, **full-stack development**, and **cloud architecture** (AWS Certified Developer & Cloud Practitioner). I’m actively researching **LLM evaluation, fine-tuning, and reliable deployment pipelines** while building full-stack web apps.
+
+---
 
 ### 🔥 Current Focus
-- 🧠 **AI/ML:** Graph Neural Networks, ML Ops, Python-based data pipelines
-- 🖥️ **Full-Stack:** Next.js, Supabase, AWS serverless architecture
-- ☁️ **Cloud:** AWS Developer & Cloud Practitioner certified
+- 🧠 **AI / ML** · Large Language Models (prompting, fine-tuning, eval) |  MLOps & data pipelines in Python  
+- 🖥️ **Full-Stack** · Next.js + TypeScript | Supabase & PostgreSQL | React UI/UX polish  
+- ☁️ **Cloud & DevOps** · Serverless AWS (Lambda, API Gateway, DynamoDB) | Infrastructure as Code | GitHub Actions CI/CD
+
 
 ## 🛠️ Tech Stack
 
