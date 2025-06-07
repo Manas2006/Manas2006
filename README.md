@@ -42,46 +42,6 @@ I'm a passionate ECE student at UT Austin, focused on building intelligent syste
   <img src="https://streak-stats.demolab.com?user=Manas2006&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak">
 </p>
 
-## 🏆 Featured Projects
-
-<details>
-<summary>🎮 Card Clash Arena</summary>
-
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manas2006&repo=card-clash-arena&layout=donut&theme=radical)
-
-Next.js/Tailwind multiplayer card game deployed on Vercel with serverless architecture.
-</details>
-
-<details>
-<summary>🚌 Austin Metro Tracker</summary>
-
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manas2006&repo=austin-metro-tracker&layout=donut&theme=radical)
-
-Real-time bus tracking app using Transit API & Mapbox for live route visualization.
-</details>
-
-<details>
-<summary>🔥 SmokeSentinel</summary>
-
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manas2006&repo=smoke-sentinel&layout=donut&theme=radical)
-
-Wildfire air-quality prediction pipeline using NASA FIRMS & NOAA data.
-</details>
-
-<details>
-<summary>💰 Budget Simulator</summary>
-
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manas2006&repo=budget-simulator&layout=donut&theme=radical)
-
-Cost-of-living calculator with Zillow API integration for real estate data.
-</details>
-
-## 🏅 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Manas2006&theme=darkhub&no-frame=true" alt="GitHub Trophies">
-</p>
-
 ---
 
 <p align="center">
