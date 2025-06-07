@@ -42,10 +42,6 @@ I'm a passionate ECE student at UT Austin, focused on building intelligent syste
   <img src="https://streak-stats.demolab.com?user=Manas2006&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak">
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manas2006&layout=compact&hide=html,css&theme=radical" alt="Top Languages">
-</p>
-
 ## 🏆 Featured Projects
 
 <details>
