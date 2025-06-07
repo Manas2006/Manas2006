@@ -39,10 +39,9 @@ I'm a passionate ECE student at UT Austin, focused on building intelligent syste
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 📊 GitHub Stats
+### 📊 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Manas2006&show_icons=true&rank_icon=github&theme=radical" alt="GitHub Stats">
   <img src="https://streak-stats.demolab.com?user=Manas2006&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak">
 </p>
 
