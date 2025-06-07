@@ -13,7 +13,9 @@
 
 ## 🚀 About Me
 
-I’m a passionate ECE student at **UT Austin** who loves turning research ideas into scalable software.  
+I’m an ECE student at **UT Austin** interested in improving LLM reasoning capabilities & software development.  
+
+
 My expertise spans **large-language-model**, **full-stack development**, and **cloud architecture** (AWS Certified Developer & Cloud Practitioner). I’m actively researching **LLM evaluation, fine-tuning, and reliable deployment pipelines** while building full-stack web apps.
 
 ---
